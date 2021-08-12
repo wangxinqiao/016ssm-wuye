@@ -22,7 +22,7 @@ Tomcat: 8.0及以上
 
 ## 技术栈：
 ````
-后端Spring+Spring MVC+MyBatis 
+后端: Spring+Spring MVC+MyBatis 
 前端：html+JQuery
 ````
 
