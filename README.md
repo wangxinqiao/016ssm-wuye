@@ -18,9 +18,13 @@ Maven >= 3.0
 
 开发工具：IDEA/Eclipse
 
-技术栈：后端Spring+Spring MVC+MyBatis 前端：html+JQuery
-
 Tomcat: 8.0及以上
+
+## 技术栈：
+````
+后端Spring+Spring MVC+MyBatis 
+前端：html+JQuery
+````
 
 ## 运行截图
 
